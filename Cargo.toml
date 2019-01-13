@@ -1,0 +1,7 @@
+[package]
+name = "http-server-demo"
+version = "0.1.0"
+authors = ["KoishiChan"]
+edition = "2018"
+
+[dependencies]
